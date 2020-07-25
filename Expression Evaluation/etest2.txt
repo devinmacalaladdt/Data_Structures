@@ -1,0 +1,8 @@
+varx 6
+vary 5
+arrayA 10 (3,5) (8,12) (9,1)
+vara 9
+varb 90 (66,3)
+a 1
+b 1
+varz 15 (0,5) (12,4)
